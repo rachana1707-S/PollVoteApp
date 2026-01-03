@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096824730786",
+    "project_id": "pollvoteapp",
+    "storage_bucket": "pollvoteapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096824730786:android:7b482bc98d7b5db69993fb",
+        "android_client_info": {
+          "package_name": "com.rachana.pollvoteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7wBlgHxlHPC70MQXz-hjswmLE0JgM4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
